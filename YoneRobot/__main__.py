@@ -74,19 +74,19 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/ebf62ff4c5668adcfa28c.jpg), ɪᴍ ʏᴏɴᴇ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help   
+ʜᴇʟʟᴏ [✨](https://telegra.ph/file/ba8a168404f40a5179b41.jpg), Iᴍ Aʟɪᴢᴀ Pʀᴏ Mᴀɴᴀɢᴇ Bᴏᴛ ᴀ Hɪɢʜʏ Aᴅᴠᴀɴᴄᴇᴅ Bᴏᴛ Wɪᴛʜ Lᴏᴛꜱ Oꜰ Aᴍᴀᴢɪɴɢ Tᴏᴏʟꜱ.
+`I'ᴍ Hᴇʀᴇ Tᴏ Hᴇʟᴘ Yᴏᴜ Mᴀɴᴀɢᴇ Yᴏᴜʀ Gʀᴏᴜᴘꜱ! Hɪᴛ` /help   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ᴀᴅᴅ ʏᴏɴᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕️", url="t.me/Yone_Robot?startgroup=true"),
+            text="➕️ Aᴅᴅ Aʟɪᴢᴀ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕️", url="t.me/Yone_Robot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
+        InlineKeyboardButton(text="🙄 Aʙᴏᴜᴛ", callback_data="yone_"),
         InlineKeyboardButton(
-            text="ꜱᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
     ],
     [
@@ -96,15 +96,15 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` [yone🙋‍♀️](https://telegra.ph/file/082096b101615e33eaf19.jpg) 
-`ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
+`Hɪ.. ɪ'ᴍ` [Aʟɪᴢᴀ🙋‍♀️](https://telegra.ph/file/082096b101615e33eaf19.jpg) 
+`Cʟɪᴄᴋ Oɴ Tʜᴇ Bᴜᴛᴛᴏɴꜱ Bᴇʟᴏᴡ Tᴏ Gᴇᴛ Dᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ Aʙᴏᴜᴛ Sᴘᴇᴄɪꜰɪᴄ Mᴏᴅᴜʟᴇꜱ..`"""
 
 yone_IMG = "https://telegra.ph/file/7e61fe06a9c02747249c4.jpg"
 
-DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @kittu5588 \
- Supporting isnt always financial! \
- Those who cannot provide monetary support are welcome to help us develop the bot at ."""
+DONATE_STRING = """Hᴇʏᴀ, Gʟᴀᴅ Tᴏ Hᴇᴀʀ Yᴏᴜ Wᴀɴᴛ Tᴏ Dᴏɴᴀᴛᴇ!
+ Yᴏᴜ Cᴀɴ Sᴜᴘᴏᴏʀᴛ Tʜᴇ Pʀᴏᴊᴇᴄᴛ Vɪᴀ [Aʟɪᴢᴀ](#) Oʀ Bʏ Cᴏɴᴛᴀᴄᴛɪɴɢ @kittu5588 \
+ Sᴜᴘᴘᴏʀᴛɪɴɢ Isɴᴛ Aʟᴡᴀʏs Fɪɴᴀɴᴄɪᴀʟ! \
+ Tʜᴏsᴇ Wʜᴏ Cᴀɴɴᴏᴛ Pʀᴏᴠɪᴅᴇ Mᴏɴᴇᴛᴇʀʏ Sᴜᴘᴏᴏʀᴛ Aʀᴇ Wᴇʟᴄᴏᴍᴇ Tᴏ Hᴇʟᴘ Us Dᴇᴠᴇʟᴏᴘ Tʜᴇ Bᴏᴛ Aᴛ ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -349,7 +349,7 @@ def yone_about_callback(update, context):
     query = update.callback_query
     if query.data == "yone_":
         query.message.edit_text(
-            text=""" ℹ️ I'm *yone*, a powerful group management bot built to help you manage your group easily.
+            text=""" 👻 I'm *Aʟɪᴢᴀ*, a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
@@ -358,7 +358,7 @@ def yone_about_callback(update, context):
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_yone's licensed under the GNU General Public License v3.0_
                  \nHere is the [💾Repository](https://github.com/noob-kittu/YoneRobot).
-                 \n\nIf you have any question about yone, let us know at .""",
+                 \n\nIf you have any question about yone, let us know at my developer by [COBRAXDOP](https://t.me/Xd_Lif)  .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
@@ -384,7 +384,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I'm *yone*
+            text=""" Hi..🤗 I'm *Aʟɪᴢᴀ*
                  \nHere is the [Source Code](https://github.com/Noob-kittu/YoneRobot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
