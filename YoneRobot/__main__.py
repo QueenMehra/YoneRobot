@@ -96,13 +96,13 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hɪ.. ɪ'ᴍ` [Aʟɪᴢᴀ🙋‍♀️](https://telegra.ph/file/082096b101615e33eaf19.jpg) 
+`Hɪ.. ɪ'ᴍ` [Aʟɪᴢᴀ🙋‍♀️](https://telegra.ph/file/ba8a168404f40a5179b41.jpg) 
 `Cʟɪᴄᴋ Oɴ Tʜᴇ Bᴜᴛᴛᴏɴꜱ Bᴇʟᴏᴡ Tᴏ Gᴇᴛ Dᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ Aʙᴏᴜᴛ Sᴘᴇᴄɪꜰɪᴄ Mᴏᴅᴜʟᴇꜱ..`"""
 
-yone_IMG = "https://telegra.ph/file/7e61fe06a9c02747249c4.jpg"
+Aliza_IMG = "https://telegra.ph/file/ba8a168404f40a5179b41.jpg"
 
 DONATE_STRING = """Hᴇʏᴀ, Gʟᴀᴅ Tᴏ Hᴇᴀʀ Yᴏᴜ Wᴀɴᴛ Tᴏ Dᴏɴᴀᴛᴇ!
- Yᴏᴜ Cᴀɴ Sᴜᴘᴏᴏʀᴛ Tʜᴇ Pʀᴏᴊᴇᴄᴛ Vɪᴀ [Aʟɪᴢᴀ](#) Oʀ Bʏ Cᴏɴᴛᴀᴄᴛɪɴɢ @kittu5588 \
+ Yᴏᴜ Cᴀɴ Sᴜᴘᴏᴏʀᴛ Tʜᴇ Pʀᴏᴊᴇᴄᴛ Vɪᴀ [Aʟɪᴢᴀ](#) Oʀ Bʏ Cᴏɴᴛᴀᴄᴛɪɴɢ @Xd_Lif \
  Sᴜᴘᴘᴏʀᴛɪɴɢ Isɴᴛ Aʟᴡᴀʏs Fɪɴᴀɴᴄɪᴀʟ! \
  Tʜᴏsᴇ Wʜᴏ Cᴀɴɴᴏᴛ Pʀᴏᴠɪᴅᴇ Mᴏɴᴇᴛᴇʀʏ Sᴜᴘᴏᴏʀᴛ Aʀᴇ Wᴇʟᴄᴏᴍᴇ Tᴏ Hᴇʟᴘ Us Dᴇᴠᴇʟᴏᴘ Tʜᴇ Bᴏᴛ Aᴛ ."""
 
